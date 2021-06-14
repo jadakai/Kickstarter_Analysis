@@ -1,5 +1,4 @@
-# Kickstarter_Analysis
-# **Kickstarter Analysis**
+# Kickstarter Analysis
 
 ## Overview
 
@@ -11,12 +10,12 @@ This analysis was completed to show if correlations exist between campaign outco
 
 * The analysis is derived from a data set containing theater plays that had a outcome of either successful, failed, or canceled with a funding goal of between $0-$50000
 
-![] (resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
  
 * Keeping these same outcomes as a parameter, the following chart indicates which month these campaigns launched based off of launch dates that spanned a 9 year period (2009-2017).
 
-! [] (resources/Theater_Outcomes_vs_Launch.png) 
+![](Resources/Theater_Outcomes_vs_Launch.png) 
 
 ---
 
