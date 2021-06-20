@@ -27,4 +27,9 @@ This analysis was completed to show if correlations exist between campaign outco
 
 ### Theater Outcomes by Launch Date
 
-* Based off of the outcomes in relation to when a campaign was launched the data shows that the months of May and June had the highest number of successful campaigns compared to other months.  
+* Based off of the outcomes in relation to when a campaign was launched the data shows that the months of May and June had the highest number of successful campaigns compared to other months.  For most months of the year there were more successful campaigns than failed ones.
+
+### Summary of limitations
+
+* There is not enough data given to get a really good analysis on what could potential increase Louise's success for her campaign.  For example, when did she launch her campaign?  We should also look closer at the plays that had a similar goal to hers and see when those plays launched their compaigns.  A line chart could be created to represent only campaigns with a goal of $12,000 - $15,000 and when they launched.  Those plays possibly have different launch months where they were the most succesful that differs from plays that had success with goals $5000 or less.  
+
